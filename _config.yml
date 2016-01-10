@@ -1,0 +1,14 @@
+layout_spectrum: 0.4139785
+typography_spectrum: 0
+color:
+  saturation: 0.3172043
+  lightness: 0.7222222
+  brandStrength: 0.3955424
+  rhythmicContrast: 0.9433013
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: CraftierCards
